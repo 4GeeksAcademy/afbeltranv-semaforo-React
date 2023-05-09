@@ -10,3 +10,28 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.marcoSemaforo{
+    background-color: black;
+    width:30px;
+    margin:auto;    
+    border-radius: 5px;
+}
+.luzSemaforo{
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    margin:auto;
+    padding:5px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+.palito{
+    width:5px;
+    margin:auto;
+    background-color: black;
+    height:20px;
+}
+.spacer{
+    height: 5px;
+}
